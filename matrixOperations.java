@@ -1,7 +1,7 @@
 ////////////////////////////////////
 // Name: Drew Ferrington         //
-// CSC 475: Neural Networks P.2 // 
-// Due: Oct. 22, 2024          //
+// CSC 475: Neural Networks     // 
+// Created: Oct. 22, 2024      //
 ////////////////////////////////
 
 /* ~ DREW'S DEV NOTES ~
